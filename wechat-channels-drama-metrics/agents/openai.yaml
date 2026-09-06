@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频号短剧前N集数据采集"
+  short_description: "抓取视频号短剧前N集播放/喜欢/评论/点赞数据并导出Excel"
+  default_prompt: "Use $wechat-channels-drama-metrics 帮我采集视频号短剧前5集数据并导出Excel到桌面"
